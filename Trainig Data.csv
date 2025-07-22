@@ -1,0 +1,1001 @@
+Education,Experience,Location,Job_Title,Age,Gender
+High School,8,Urban,Manager,63,Male
+PhD,11,Suburban,Director,59,Male
+Bachelor,28,Suburban,Manager,61,Female
+High School,29,Rural,Director,45,Male
+PhD,25,Urban,Analyst,26,Female
+PhD,19,Rural,Director,27,Female
+PhD,4,Rural,Director,60,Female
+PhD,13,Suburban,Director,49,Female
+Bachelor,20,Urban,Engineer,25,Female
+PhD,14,Urban,Analyst,58,Female
+Bachelor,23,Rural,Manager,23,Female
+Master,1,Urban,Director,27,Female
+High School,11,Urban,Manager,63,Male
+PhD,4,Rural,Manager,43,Male
+Master,7,Suburban,Director,44,Female
+High School,28,Suburban,Engineer,49,Male
+High School,4,Suburban,Analyst,37,Male
+High School,26,Rural,Director,63,Male
+Master,7,Urban,Director,53,Female
+Bachelor,20,Rural,Analyst,34,Male
+Master,3,Rural,Engineer,62,Female
+PhD,19,Suburban,Analyst,62,Male
+PhD,19,Urban,Director,36,Female
+Master,7,Suburban,Analyst,21,Female
+High School,21,Urban,Manager,62,Female
+Bachelor,12,Urban,Manager,20,Male
+Bachelor,23,Suburban,Manager,35,Female
+Bachelor,1,Suburban,Engineer,36,Male
+Bachelor,5,Rural,Manager,28,Male
+High School,14,Urban,Analyst,61,Female
+Bachelor,10,Urban,Engineer,40,Female
+High School,3,Urban,Analyst,63,Female
+PhD,2,Urban,Engineer,45,Male
+High School,13,Urban,Analyst,20,Male
+PhD,16,Rural,Director,59,Male
+Bachelor,23,Urban,Engineer,22,Female
+Master,2,Rural,Director,26,Female
+PhD,24,Suburban,Director,23,Female
+PhD,13,Rural,Director,50,Male
+High School,6,Rural,Director,33,Female
+Master,7,Rural,Director,40,Male
+PhD,2,Suburban,Director,31,Female
+High School,11,Urban,Analyst,31,Male
+Bachelor,7,Rural,Manager,25,Female
+PhD,7,Suburban,Engineer,36,Female
+Bachelor,7,Rural,Analyst,33,Male
+PhD,7,Rural,Analyst,28,Female
+PhD,12,Suburban,Analyst,47,Female
+Master,19,Rural,Analyst,26,Male
+PhD,22,Rural,Manager,64,Male
+High School,19,Urban,Manager,62,Male
+Bachelor,19,Suburban,Engineer,24,Male
+Bachelor,20,Rural,Engineer,60,Female
+Bachelor,3,Suburban,Analyst,61,Female
+PhD,13,Suburban,Engineer,35,Female
+High School,10,Urban,Director,20,Female
+PhD,20,Urban,Analyst,59,Male
+Master,9,Urban,Engineer,57,Male
+High School,6,Rural,Engineer,26,Female
+PhD,21,Rural,Director,49,Male
+PhD,22,Rural,Analyst,45,Female
+Master,12,Rural,Manager,32,Female
+PhD,2,Rural,Analyst,20,Female
+Master,12,Rural,Manager,48,Female
+PhD,16,Suburban,Engineer,27,Female
+High School,13,Suburban,Manager,21,Female
+Master,16,Urban,Analyst,64,Female
+High School,13,Rural,Engineer,27,Male
+High School,22,Suburban,Manager,60,Female
+High School,25,Urban,Manager,46,Female
+Bachelor,19,Urban,Analyst,60,Male
+Bachelor,26,Urban,Engineer,42,Male
+Master,14,Urban,Engineer,34,Male
+High School,29,Suburban,Manager,51,Male
+High School,13,Suburban,Manager,41,Female
+Bachelor,10,Suburban,Manager,27,Male
+PhD,22,Urban,Director,56,Male
+High School,7,Urban,Engineer,36,Male
+Bachelor,5,Rural,Manager,26,Female
+Master,17,Rural,Manager,62,Female
+Master,9,Urban,Engineer,40,Female
+PhD,27,Suburban,Director,58,Male
+High School,6,Urban,Engineer,24,Female
+Bachelor,16,Rural,Director,36,Female
+Bachelor,6,Rural,Analyst,54,Male
+PhD,6,Suburban,Engineer,34,Male
+Bachelor,28,Urban,Engineer,59,Male
+Bachelor,18,Rural,Analyst,35,Male
+PhD,1,Suburban,Engineer,44,Male
+Master,17,Rural,Analyst,34,Male
+PhD,17,Suburban,Director,30,Male
+PhD,1,Rural,Engineer,24,Male
+Master,11,Rural,Analyst,40,Female
+Master,13,Urban,Manager,61,Female
+PhD,1,Suburban,Director,60,Male
+High School,27,Suburban,Director,31,Male
+Master,8,Rural,Manager,49,Female
+PhD,23,Urban,Manager,23,Male
+Bachelor,20,Rural,Analyst,64,Male
+High School,6,Rural,Manager,46,Male
+Bachelor,5,Rural,Engineer,47,Male
+Master,20,Suburban,Analyst,22,Female
+High School,5,Urban,Director,22,Male
+PhD,6,Rural,Engineer,43,Female
+High School,29,Rural,Engineer,48,Male
+Master,13,Rural,Director,38,Female
+High School,27,Suburban,Engineer,21,Female
+PhD,18,Rural,Director,24,Male
+PhD,20,Suburban,Director,56,Female
+High School,13,Suburban,Director,37,Female
+PhD,7,Suburban,Director,44,Female
+High School,8,Suburban,Analyst,45,Female
+High School,21,Suburban,Engineer,63,Female
+High School,17,Urban,Manager,32,Male
+High School,1,Suburban,Analyst,54,Male
+Master,24,Suburban,Manager,41,Female
+PhD,16,Rural,Analyst,29,Female
+High School,11,Urban,Engineer,56,Female
+PhD,29,Urban,Director,63,Male
+Master,4,Rural,Manager,61,Male
+PhD,4,Suburban,Analyst,26,Male
+PhD,17,Urban,Engineer,37,Female
+Bachelor,17,Suburban,Engineer,51,Female
+Bachelor,10,Rural,Analyst,64,Male
+Bachelor,21,Urban,Director,26,Male
+High School,21,Suburban,Analyst,36,Female
+Bachelor,6,Urban,Analyst,50,Male
+Bachelor,25,Urban,Analyst,48,Male
+Bachelor,25,Suburban,Director,31,Male
+PhD,17,Suburban,Manager,52,Female
+High School,18,Urban,Analyst,58,Male
+PhD,22,Rural,Engineer,45,Male
+Bachelor,26,Urban,Manager,58,Female
+Master,10,Rural,Engineer,49,Male
+High School,13,Urban,Engineer,22,Female
+Bachelor,16,Suburban,Analyst,39,Female
+Master,7,Rural,Manager,32,Female
+High School,15,Rural,Analyst,38,Female
+Master,2,Urban,Engineer,20,Male
+High School,5,Urban,Analyst,61,Male
+Bachelor,17,Rural,Director,42,Male
+PhD,5,Suburban,Director,37,Female
+Master,8,Rural,Analyst,62,Male
+Master,24,Rural,Analyst,24,Female
+Bachelor,28,Suburban,Analyst,24,Male
+High School,15,Suburban,Analyst,38,Female
+PhD,8,Urban,Analyst,25,Female
+Bachelor,23,Urban,Director,34,Female
+Bachelor,3,Urban,Manager,30,Male
+PhD,23,Suburban,Analyst,49,Female
+High School,17,Rural,Manager,39,Female
+Master,28,Suburban,Analyst,54,Male
+Master,16,Urban,Manager,23,Female
+PhD,16,Rural,Director,28,Female
+Master,19,Urban,Engineer,46,Male
+PhD,12,Rural,Manager,38,Female
+PhD,24,Suburban,Director,24,Male
+PhD,15,Urban,Manager,27,Female
+Master,8,Suburban,Director,62,Male
+Bachelor,27,Suburban,Engineer,49,Female
+Master,3,Suburban,Director,55,Male
+Master,23,Rural,Analyst,35,Female
+PhD,18,Suburban,Analyst,23,Female
+Master,4,Suburban,Manager,23,Female
+PhD,8,Rural,Analyst,26,Male
+PhD,14,Suburban,Analyst,22,Female
+Master,28,Suburban,Engineer,57,Male
+Master,17,Suburban,Analyst,44,Male
+PhD,6,Rural,Analyst,55,Male
+High School,5,Rural,Manager,23,Female
+Bachelor,22,Urban,Analyst,27,Female
+Master,14,Suburban,Analyst,47,Female
+PhD,6,Rural,Director,22,Male
+Master,20,Suburban,Director,27,Female
+Bachelor,12,Rural,Manager,30,Male
+Master,9,Rural,Manager,25,Male
+Bachelor,1,Rural,Manager,60,Female
+High School,18,Urban,Analyst,42,Male
+Master,6,Suburban,Analyst,63,Male
+Master,29,Rural,Analyst,21,Male
+PhD,5,Suburban,Analyst,26,Female
+High School,2,Rural,Analyst,48,Male
+PhD,6,Suburban,Analyst,25,Female
+Master,17,Suburban,Director,60,Male
+PhD,7,Rural,Manager,30,Male
+High School,25,Suburban,Manager,27,Female
+High School,9,Urban,Analyst,49,Male
+Master,23,Urban,Engineer,56,Male
+High School,20,Suburban,Director,38,Female
+Master,5,Suburban,Manager,22,Female
+PhD,21,Rural,Director,61,Male
+Master,11,Rural,Analyst,49,Male
+Master,11,Suburban,Director,52,Male
+PhD,28,Suburban,Manager,45,Male
+High School,4,Suburban,Director,56,Male
+High School,23,Suburban,Director,39,Male
+High School,29,Urban,Engineer,52,Female
+Bachelor,6,Suburban,Director,47,Male
+Master,27,Rural,Manager,46,Female
+High School,10,Urban,Manager,48,Female
+Bachelor,9,Suburban,Manager,43,Male
+Master,29,Rural,Manager,38,Female
+PhD,18,Urban,Analyst,25,Male
+Master,20,Suburban,Engineer,21,Female
+Master,9,Suburban,Analyst,41,Male
+PhD,28,Suburban,Manager,54,Male
+Bachelor,11,Suburban,Director,21,Female
+High School,2,Urban,Manager,49,Female
+High School,15,Rural,Manager,54,Male
+High School,6,Suburban,Engineer,34,Female
+PhD,25,Urban,Engineer,62,Male
+PhD,17,Urban,Director,50,Male
+High School,4,Rural,Analyst,29,Female
+Master,8,Urban,Manager,47,Female
+Master,29,Urban,Engineer,27,Male
+High School,2,Rural,Director,32,Male
+High School,24,Urban,Manager,49,Male
+PhD,9,Urban,Analyst,56,Male
+High School,1,Rural,Analyst,58,Male
+Bachelor,24,Urban,Engineer,48,Male
+Master,6,Rural,Analyst,41,Male
+High School,16,Suburban,Director,43,Female
+High School,27,Suburban,Engineer,57,Male
+PhD,26,Suburban,Manager,40,Male
+Bachelor,26,Suburban,Engineer,33,Male
+PhD,7,Urban,Director,60,Male
+High School,25,Suburban,Director,61,Female
+Master,24,Rural,Analyst,21,Male
+Bachelor,16,Rural,Manager,28,Female
+Bachelor,6,Rural,Director,59,Female
+Bachelor,10,Rural,Analyst,64,Female
+PhD,18,Suburban,Manager,29,Female
+High School,17,Rural,Manager,37,Female
+High School,17,Suburban,Director,45,Female
+High School,12,Rural,Manager,43,Female
+Bachelor,15,Rural,Manager,60,Female
+Bachelor,6,Suburban,Analyst,30,Female
+Master,23,Suburban,Engineer,46,Male
+Bachelor,20,Urban,Manager,33,Male
+High School,16,Urban,Analyst,51,Female
+High School,23,Urban,Analyst,41,Female
+Bachelor,14,Rural,Analyst,53,Female
+Master,12,Rural,Director,21,Male
+Bachelor,12,Rural,Director,52,Male
+Bachelor,2,Urban,Engineer,63,Female
+PhD,8,Urban,Director,26,Female
+Bachelor,24,Urban,Analyst,54,Male
+High School,27,Rural,Analyst,50,Female
+High School,17,Suburban,Engineer,46,Male
+High School,8,Urban,Analyst,58,Male
+PhD,16,Suburban,Director,56,Female
+PhD,23,Rural,Analyst,37,Male
+Bachelor,1,Urban,Engineer,32,Male
+Master,5,Rural,Engineer,59,Male
+Bachelor,19,Suburban,Engineer,45,Male
+PhD,24,Rural,Manager,20,Female
+Bachelor,22,Rural,Director,58,Male
+PhD,3,Urban,Engineer,50,Female
+High School,9,Suburban,Manager,61,Male
+High School,11,Urban,Director,56,Female
+PhD,6,Rural,Manager,58,Male
+Bachelor,7,Rural,Director,48,Male
+Master,7,Suburban,Director,62,Male
+High School,5,Rural,Director,43,Female
+Master,2,Urban,Engineer,35,Female
+PhD,22,Suburban,Director,58,Male
+PhD,28,Rural,Manager,58,Female
+Master,5,Urban,Analyst,42,Male
+PhD,6,Urban,Analyst,27,Male
+Bachelor,6,Suburban,Director,57,Male
+Bachelor,7,Rural,Engineer,22,Male
+Bachelor,4,Urban,Director,33,Female
+PhD,25,Suburban,Manager,40,Male
+Master,18,Urban,Analyst,49,Female
+High School,16,Rural,Manager,52,Male
+High School,21,Urban,Manager,39,Male
+Bachelor,19,Rural,Analyst,64,Female
+High School,10,Urban,Engineer,64,Female
+PhD,24,Rural,Manager,42,Female
+Master,5,Urban,Analyst,42,Male
+PhD,18,Urban,Engineer,64,Male
+PhD,25,Suburban,Manager,57,Male
+Master,3,Rural,Manager,54,Female
+High School,20,Urban,Manager,58,Male
+Master,4,Suburban,Manager,41,Female
+PhD,14,Urban,Director,48,Male
+Master,12,Suburban,Engineer,54,Female
+Master,14,Urban,Manager,21,Male
+Bachelor,5,Suburban,Analyst,37,Male
+Bachelor,18,Rural,Director,54,Female
+PhD,27,Urban,Analyst,63,Male
+PhD,7,Rural,Analyst,33,Male
+High School,16,Rural,Engineer,37,Female
+PhD,3,Suburban,Analyst,51,Male
+High School,22,Rural,Director,41,Female
+High School,21,Suburban,Manager,54,Female
+Master,11,Suburban,Manager,21,Male
+Master,27,Suburban,Analyst,25,Male
+PhD,26,Suburban,Engineer,58,Female
+Bachelor,18,Suburban,Engineer,51,Female
+Bachelor,6,Urban,Manager,48,Male
+High School,26,Urban,Manager,58,Male
+PhD,21,Rural,Analyst,24,Male
+High School,22,Urban,Engineer,57,Female
+Master,24,Suburban,Analyst,27,Female
+PhD,5,Suburban,Manager,23,Female
+PhD,5,Urban,Manager,41,Male
+Bachelor,16,Rural,Analyst,41,Female
+PhD,3,Rural,Engineer,46,Male
+Bachelor,12,Urban,Manager,22,Male
+PhD,3,Suburban,Manager,48,Male
+Master,2,Suburban,Engineer,52,Male
+High School,15,Rural,Manager,57,Female
+Bachelor,20,Urban,Engineer,53,Male
+Bachelor,17,Suburban,Engineer,55,Female
+PhD,12,Rural,Manager,52,Female
+PhD,2,Rural,Analyst,59,Male
+PhD,26,Urban,Manager,37,Female
+Bachelor,2,Rural,Manager,29,Female
+Bachelor,14,Suburban,Manager,55,Male
+Bachelor,7,Rural,Director,64,Female
+PhD,26,Rural,Manager,42,Male
+PhD,25,Rural,Analyst,25,Male
+Master,14,Urban,Analyst,42,Male
+Master,7,Suburban,Analyst,29,Female
+Master,20,Rural,Engineer,21,Male
+High School,17,Urban,Director,63,Female
+PhD,24,Rural,Director,25,Female
+PhD,27,Suburban,Analyst,62,Female
+Bachelor,4,Rural,Director,24,Female
+Master,27,Urban,Engineer,27,Male
+PhD,15,Rural,Manager,39,Male
+Bachelor,27,Rural,Analyst,58,Female
+PhD,3,Rural,Director,33,Female
+PhD,6,Urban,Analyst,31,Male
+Bachelor,26,Rural,Analyst,43,Female
+Bachelor,8,Rural,Analyst,58,Male
+Bachelor,16,Urban,Analyst,31,Male
+High School,15,Urban,Manager,60,Female
+Master,4,Suburban,Analyst,51,Female
+Master,21,Urban,Director,23,Male
+High School,8,Rural,Director,22,Male
+Bachelor,23,Rural,Engineer,27,Female
+Bachelor,8,Urban,Engineer,22,Male
+High School,20,Suburban,Director,45,Female
+PhD,7,Urban,Analyst,25,Male
+High School,26,Suburban,Director,36,Male
+High School,20,Urban,Engineer,28,Female
+PhD,24,Suburban,Analyst,37,Male
+Master,18,Suburban,Director,48,Female
+Bachelor,12,Rural,Manager,34,Male
+Master,4,Suburban,Director,26,Female
+Bachelor,14,Rural,Engineer,33,Female
+Master,27,Urban,Director,48,Female
+High School,24,Urban,Analyst,23,Female
+Master,25,Urban,Director,64,Male
+High School,28,Urban,Engineer,58,Male
+Bachelor,29,Urban,Director,24,Male
+Bachelor,25,Rural,Analyst,20,Male
+Bachelor,5,Urban,Director,31,Male
+High School,22,Suburban,Engineer,58,Male
+PhD,20,Rural,Manager,26,Male
+High School,23,Suburban,Director,40,Male
+PhD,26,Rural,Director,26,Male
+High School,7,Suburban,Engineer,36,Male
+High School,12,Rural,Engineer,20,Male
+High School,15,Urban,Director,23,Male
+High School,19,Rural,Engineer,25,Male
+Bachelor,26,Rural,Engineer,59,Male
+PhD,13,Suburban,Analyst,36,Male
+PhD,4,Rural,Director,45,Female
+High School,6,Rural,Director,50,Male
+PhD,8,Urban,Manager,47,Male
+Master,15,Suburban,Manager,31,Female
+Master,12,Rural,Engineer,60,Male
+Bachelor,10,Suburban,Engineer,20,Male
+Bachelor,12,Rural,Director,53,Male
+Bachelor,17,Rural,Manager,45,Female
+Master,29,Suburban,Director,34,Male
+Bachelor,28,Urban,Director,54,Male
+Bachelor,8,Rural,Director,60,Male
+High School,28,Rural,Manager,63,Female
+Bachelor,2,Rural,Director,58,Female
+Master,19,Suburban,Manager,39,Male
+Bachelor,22,Urban,Manager,62,Male
+Bachelor,29,Rural,Engineer,54,Male
+High School,1,Rural,Director,58,Female
+High School,22,Rural,Manager,41,Male
+Bachelor,25,Suburban,Engineer,40,Female
+Bachelor,10,Suburban,Engineer,46,Female
+Master,9,Suburban,Manager,55,Male
+PhD,19,Suburban,Analyst,47,Male
+PhD,12,Urban,Engineer,23,Female
+Bachelor,29,Suburban,Manager,45,Male
+PhD,22,Suburban,Engineer,27,Male
+PhD,20,Rural,Analyst,24,Male
+PhD,18,Suburban,Director,24,Male
+Master,24,Urban,Manager,29,Male
+Master,16,Urban,Director,24,Female
+Bachelor,4,Rural,Engineer,53,Female
+Master,11,Urban,Analyst,30,Female
+PhD,25,Suburban,Analyst,43,Female
+Master,22,Suburban,Engineer,52,Male
+High School,29,Urban,Manager,33,Female
+PhD,27,Urban,Manager,41,Male
+PhD,22,Suburban,Engineer,48,Male
+Bachelor,15,Rural,Analyst,43,Female
+Bachelor,16,Suburban,Director,25,Female
+Bachelor,2,Rural,Analyst,22,Female
+Master,13,Rural,Analyst,20,Female
+Bachelor,12,Urban,Analyst,29,Female
+Bachelor,26,Rural,Engineer,27,Male
+Bachelor,8,Suburban,Director,49,Female
+Master,12,Suburban,Analyst,41,Male
+High School,27,Urban,Engineer,36,Male
+PhD,14,Rural,Manager,34,Male
+Bachelor,3,Suburban,Manager,39,Female
+High School,2,Rural,Analyst,57,Male
+PhD,17,Suburban,Analyst,46,Male
+Bachelor,2,Suburban,Director,32,Female
+Bachelor,17,Suburban,Analyst,35,Male
+Master,2,Suburban,Manager,39,Female
+High School,2,Urban,Engineer,38,Male
+Master,13,Urban,Engineer,62,Female
+PhD,7,Rural,Director,22,Female
+High School,9,Rural,Engineer,36,Female
+Master,9,Urban,Director,31,Male
+High School,14,Suburban,Analyst,55,Male
+Master,11,Rural,Engineer,29,Female
+High School,20,Rural,Director,29,Female
+High School,19,Urban,Director,50,Male
+PhD,1,Rural,Analyst,42,Female
+PhD,24,Urban,Manager,62,Female
+PhD,5,Suburban,Engineer,40,Male
+High School,23,Rural,Analyst,61,Male
+High School,1,Suburban,Engineer,39,Male
+PhD,6,Suburban,Manager,24,Male
+Bachelor,16,Urban,Engineer,35,Male
+PhD,20,Suburban,Director,53,Female
+Master,16,Urban,Engineer,20,Female
+PhD,20,Urban,Director,35,Female
+High School,26,Rural,Manager,33,Female
+PhD,13,Suburban,Director,29,Female
+High School,14,Urban,Analyst,62,Female
+PhD,11,Rural,Director,30,Female
+PhD,21,Urban,Director,59,Female
+Bachelor,10,Suburban,Analyst,54,Female
+Master,17,Suburban,Director,59,Male
+Bachelor,7,Rural,Director,64,Female
+High School,22,Rural,Analyst,64,Female
+High School,4,Rural,Director,62,Male
+PhD,17,Rural,Director,21,Female
+High School,1,Rural,Engineer,28,Female
+PhD,2,Suburban,Engineer,20,Male
+High School,19,Rural,Director,31,Male
+High School,1,Rural,Analyst,46,Male
+Bachelor,12,Rural,Analyst,50,Male
+High School,28,Rural,Engineer,63,Male
+Master,19,Suburban,Analyst,62,Male
+Master,19,Suburban,Analyst,39,Female
+Master,26,Urban,Engineer,41,Female
+High School,23,Rural,Manager,21,Female
+High School,16,Rural,Engineer,38,Female
+Master,16,Suburban,Analyst,48,Female
+High School,29,Suburban,Director,31,Female
+Master,8,Suburban,Analyst,59,Male
+PhD,28,Rural,Director,29,Female
+Master,25,Urban,Director,44,Male
+PhD,26,Urban,Director,24,Male
+PhD,27,Suburban,Manager,46,Female
+High School,25,Suburban,Manager,63,Male
+Bachelor,13,Suburban,Engineer,41,Male
+Bachelor,14,Suburban,Manager,34,Male
+Bachelor,19,Urban,Director,49,Female
+High School,15,Urban,Analyst,21,Female
+High School,15,Suburban,Analyst,34,Male
+PhD,21,Urban,Director,20,Female
+PhD,8,Suburban,Analyst,35,Female
+Bachelor,24,Urban,Analyst,53,Male
+PhD,13,Rural,Manager,52,Female
+High School,12,Rural,Director,57,Male
+PhD,22,Urban,Analyst,25,Female
+High School,28,Suburban,Analyst,50,Female
+Bachelor,13,Urban,Analyst,61,Male
+Master,16,Suburban,Director,29,Male
+Master,24,Suburban,Director,27,Male
+High School,12,Suburban,Engineer,50,Female
+Master,14,Suburban,Engineer,41,Male
+Bachelor,15,Urban,Analyst,50,Female
+PhD,19,Urban,Manager,61,Female
+PhD,5,Rural,Manager,28,Female
+PhD,29,Suburban,Director,21,Female
+Bachelor,2,Rural,Director,41,Male
+Master,18,Urban,Engineer,28,Male
+Bachelor,18,Urban,Engineer,20,Male
+Master,24,Suburban,Director,47,Male
+PhD,26,Urban,Manager,45,Female
+Master,17,Suburban,Engineer,49,Male
+Bachelor,10,Rural,Engineer,27,Male
+Master,27,Suburban,Analyst,46,Female
+PhD,17,Urban,Manager,51,Male
+PhD,3,Urban,Analyst,34,Male
+High School,16,Urban,Engineer,39,Male
+High School,18,Rural,Engineer,28,Female
+Master,21,Suburban,Engineer,59,Male
+Bachelor,7,Rural,Engineer,49,Male
+PhD,1,Urban,Director,43,Male
+Bachelor,7,Suburban,Manager,33,Female
+Master,13,Rural,Manager,60,Female
+Master,23,Suburban,Manager,21,Male
+Bachelor,16,Urban,Manager,45,Male
+High School,11,Rural,Analyst,44,Female
+Master,3,Suburban,Analyst,50,Male
+PhD,9,Suburban,Analyst,61,Male
+High School,7,Urban,Engineer,36,Female
+Master,23,Urban,Director,31,Male
+High School,22,Urban,Manager,59,Male
+PhD,3,Rural,Director,27,Male
+Master,22,Rural,Manager,58,Male
+Bachelor,1,Suburban,Manager,41,Female
+Master,11,Suburban,Analyst,44,Male
+Bachelor,13,Rural,Engineer,57,Male
+High School,4,Suburban,Engineer,63,Female
+Bachelor,10,Rural,Director,56,Male
+Bachelor,26,Suburban,Engineer,52,Female
+Master,8,Rural,Analyst,29,Male
+Master,28,Suburban,Manager,60,Male
+PhD,28,Suburban,Director,36,Male
+High School,17,Rural,Analyst,55,Female
+Bachelor,11,Urban,Manager,23,Male
+High School,5,Rural,Engineer,59,Female
+PhD,18,Rural,Director,57,Male
+High School,4,Urban,Director,23,Male
+High School,6,Suburban,Manager,60,Male
+Master,24,Urban,Engineer,55,Female
+High School,7,Urban,Director,21,Male
+PhD,28,Urban,Engineer,23,Female
+Bachelor,12,Suburban,Engineer,31,Male
+High School,3,Rural,Manager,23,Female
+PhD,29,Urban,Analyst,32,Male
+Master,8,Suburban,Engineer,52,Male
+Bachelor,20,Suburban,Director,59,Female
+PhD,21,Rural,Director,20,Male
+High School,10,Rural,Director,43,Female
+Bachelor,24,Urban,Director,27,Male
+Master,1,Suburban,Manager,21,Male
+High School,17,Rural,Engineer,54,Female
+High School,18,Urban,Manager,33,Female
+High School,9,Suburban,Analyst,50,Male
+Master,20,Suburban,Engineer,41,Female
+Bachelor,22,Rural,Engineer,37,Male
+PhD,27,Suburban,Engineer,43,Female
+High School,16,Suburban,Analyst,55,Male
+High School,17,Rural,Manager,53,Male
+High School,18,Suburban,Engineer,26,Male
+High School,11,Suburban,Engineer,44,Female
+Bachelor,18,Urban,Director,54,Female
+PhD,4,Suburban,Analyst,60,Female
+Master,8,Rural,Director,58,Female
+Master,10,Suburban,Director,29,Female
+Bachelor,4,Rural,Manager,44,Male
+High School,8,Rural,Director,49,Female
+Bachelor,17,Suburban,Analyst,25,Female
+Bachelor,3,Rural,Analyst,45,Female
+Bachelor,5,Urban,Engineer,24,Female
+PhD,27,Rural,Manager,58,Female
+PhD,5,Urban,Engineer,20,Female
+Bachelor,7,Rural,Director,34,Female
+Bachelor,1,Suburban,Engineer,29,Female
+PhD,18,Rural,Analyst,56,Female
+Bachelor,24,Rural,Analyst,48,Female
+PhD,23,Rural,Director,35,Female
+PhD,22,Urban,Engineer,22,Male
+Master,6,Urban,Analyst,56,Male
+Master,24,Urban,Analyst,27,Female
+PhD,28,Urban,Manager,37,Female
+Bachelor,20,Urban,Engineer,51,Male
+Bachelor,15,Suburban,Engineer,63,Female
+Bachelor,28,Rural,Manager,61,Female
+Master,23,Rural,Analyst,35,Male
+High School,9,Suburban,Manager,48,Male
+PhD,25,Suburban,Manager,62,Male
+High School,29,Suburban,Manager,51,Female
+High School,3,Suburban,Analyst,42,Female
+Bachelor,27,Urban,Director,43,Male
+High School,18,Rural,Director,24,Female
+Bachelor,29,Suburban,Director,20,Female
+High School,16,Suburban,Manager,37,Female
+PhD,17,Rural,Director,26,Female
+Master,9,Suburban,Engineer,24,Female
+Master,28,Urban,Director,31,Male
+Bachelor,24,Urban,Analyst,52,Male
+High School,13,Urban,Manager,36,Male
+High School,8,Suburban,Manager,22,Male
+High School,13,Rural,Director,30,Male
+High School,1,Suburban,Manager,59,Male
+High School,21,Rural,Manager,58,Male
+PhD,12,Urban,Manager,59,Male
+Master,12,Urban,Manager,20,Male
+Bachelor,9,Rural,Engineer,29,Female
+High School,1,Suburban,Analyst,31,Male
+Master,21,Suburban,Engineer,64,Female
+PhD,14,Suburban,Director,37,Female
+PhD,29,Urban,Director,56,Male
+PhD,14,Suburban,Manager,61,Male
+PhD,6,Rural,Manager,25,Male
+High School,16,Suburban,Director,61,Male
+Master,8,Suburban,Manager,58,Female
+Bachelor,19,Rural,Engineer,56,Male
+High School,5,Rural,Manager,24,Female
+PhD,15,Urban,Engineer,31,Male
+PhD,13,Urban,Analyst,59,Male
+PhD,26,Suburban,Engineer,49,Female
+PhD,24,Suburban,Director,63,Male
+High School,6,Urban,Director,31,Female
+Master,17,Suburban,Director,62,Female
+Bachelor,5,Suburban,Engineer,52,Female
+Master,10,Rural,Analyst,21,Female
+Master,5,Suburban,Director,64,Female
+Bachelor,17,Rural,Manager,54,Female
+PhD,19,Urban,Engineer,62,Female
+PhD,6,Suburban,Analyst,62,Female
+High School,22,Rural,Engineer,64,Male
+High School,15,Rural,Engineer,30,Female
+Master,4,Rural,Analyst,62,Female
+Bachelor,17,Rural,Engineer,60,Male
+Bachelor,1,Suburban,Director,59,Female
+High School,18,Urban,Analyst,35,Female
+PhD,26,Rural,Engineer,46,Female
+High School,10,Urban,Manager,61,Female
+Master,19,Rural,Analyst,60,Female
+High School,2,Rural,Manager,64,Male
+PhD,17,Rural,Engineer,36,Female
+Bachelor,18,Urban,Manager,63,Male
+Master,13,Urban,Analyst,48,Female
+PhD,7,Urban,Engineer,20,Male
+Master,29,Suburban,Analyst,64,Female
+Bachelor,20,Urban,Engineer,22,Male
+High School,5,Suburban,Director,42,Male
+High School,4,Suburban,Director,44,Male
+Bachelor,7,Urban,Director,64,Female
+High School,5,Rural,Manager,39,Male
+High School,19,Rural,Manager,50,Male
+Master,20,Suburban,Director,33,Male
+High School,7,Rural,Analyst,27,Female
+High School,13,Rural,Analyst,39,Male
+Bachelor,4,Suburban,Engineer,55,Male
+PhD,15,Urban,Analyst,49,Female
+Bachelor,20,Suburban,Analyst,40,Male
+Bachelor,29,Urban,Manager,28,Female
+Bachelor,25,Urban,Analyst,30,Female
+Bachelor,18,Suburban,Analyst,61,Female
+PhD,4,Rural,Engineer,54,Male
+Bachelor,28,Urban,Director,31,Female
+Master,4,Suburban,Director,28,Male
+High School,2,Suburban,Manager,41,Female
+Master,22,Suburban,Manager,24,Male
+High School,20,Urban,Engineer,27,Female
+PhD,23,Rural,Manager,41,Male
+PhD,28,Rural,Engineer,42,Male
+Bachelor,5,Suburban,Director,26,Female
+PhD,25,Urban,Director,39,Male
+High School,22,Rural,Engineer,63,Male
+PhD,8,Suburban,Director,26,Male
+Master,11,Rural,Analyst,52,Female
+High School,11,Rural,Analyst,57,Female
+PhD,18,Urban,Director,42,Female
+PhD,27,Suburban,Engineer,61,Male
+PhD,25,Rural,Analyst,41,Female
+High School,19,Rural,Analyst,31,Female
+Bachelor,17,Urban,Director,63,Female
+PhD,1,Urban,Manager,23,Female
+PhD,5,Rural,Manager,52,Female
+Master,3,Urban,Director,49,Male
+Bachelor,28,Urban,Director,41,Female
+PhD,14,Suburban,Analyst,37,Female
+PhD,2,Suburban,Engineer,25,Male
+Bachelor,28,Rural,Engineer,47,Female
+Bachelor,3,Rural,Analyst,21,Male
+High School,3,Rural,Analyst,53,Male
+High School,20,Urban,Engineer,60,Female
+PhD,21,Suburban,Manager,63,Female
+Master,27,Rural,Manager,59,Male
+High School,13,Suburban,Engineer,63,Male
+High School,8,Urban,Director,57,Female
+PhD,22,Suburban,Director,50,Male
+Master,14,Urban,Analyst,38,Male
+Bachelor,18,Rural,Manager,35,Male
+Master,27,Urban,Director,60,Male
+PhD,20,Urban,Director,49,Male
+Master,13,Urban,Director,24,Male
+PhD,18,Urban,Engineer,62,Male
+PhD,1,Rural,Analyst,40,Male
+High School,2,Suburban,Analyst,36,Male
+PhD,5,Rural,Manager,41,Female
+Master,11,Rural,Director,22,Female
+Master,11,Urban,Analyst,40,Male
+High School,1,Rural,Engineer,44,Male
+PhD,29,Urban,Engineer,63,Female
+Master,27,Suburban,Engineer,40,Female
+Bachelor,3,Urban,Director,35,Male
+High School,29,Suburban,Engineer,53,Female
+PhD,2,Rural,Director,44,Male
+Bachelor,14,Urban,Analyst,44,Male
+Master,20,Suburban,Engineer,60,Male
+Bachelor,16,Rural,Director,47,Male
+Bachelor,18,Suburban,Manager,23,Female
+High School,5,Urban,Analyst,39,Male
+Bachelor,8,Suburban,Analyst,32,Male
+Bachelor,22,Suburban,Director,64,Female
+PhD,7,Suburban,Director,30,Male
+Bachelor,10,Rural,Analyst,29,Male
+PhD,16,Suburban,Director,48,Male
+Master,19,Suburban,Engineer,51,Male
+High School,22,Suburban,Director,43,Female
+Bachelor,29,Suburban,Analyst,33,Male
+Bachelor,11,Urban,Engineer,25,Male
+PhD,19,Urban,Director,60,Female
+PhD,3,Rural,Engineer,27,Male
+High School,18,Suburban,Director,61,Male
+Bachelor,4,Rural,Analyst,36,Male
+Master,25,Suburban,Analyst,59,Female
+High School,20,Urban,Engineer,55,Female
+Bachelor,17,Suburban,Analyst,62,Female
+Master,24,Rural,Analyst,48,Male
+Bachelor,13,Suburban,Engineer,37,Female
+Master,4,Urban,Engineer,57,Female
+Bachelor,14,Rural,Analyst,21,Male
+PhD,25,Suburban,Engineer,37,Female
+Master,3,Urban,Engineer,50,Male
+PhD,21,Suburban,Director,54,Male
+Bachelor,4,Urban,Manager,23,Male
+Master,18,Rural,Analyst,53,Male
+PhD,13,Rural,Analyst,63,Male
+Master,7,Suburban,Director,45,Female
+Master,11,Urban,Analyst,21,Male
+Master,11,Rural,Analyst,54,Male
+High School,6,Suburban,Analyst,59,Male
+PhD,11,Suburban,Engineer,60,Female
+Master,9,Suburban,Analyst,38,Female
+Master,16,Urban,Analyst,61,Female
+PhD,28,Suburban,Manager,41,Female
+Master,5,Urban,Director,48,Male
+Master,20,Suburban,Director,21,Male
+High School,23,Urban,Engineer,61,Male
+Bachelor,6,Suburban,Analyst,58,Female
+High School,4,Suburban,Analyst,32,Male
+PhD,8,Urban,Analyst,35,Male
+Master,25,Rural,Analyst,48,Male
+High School,25,Rural,Engineer,45,Female
+High School,16,Rural,Manager,42,Female
+Master,16,Urban,Director,47,Male
+PhD,11,Rural,Manager,33,Female
+Bachelor,20,Suburban,Analyst,53,Female
+PhD,14,Urban,Manager,34,Male
+Master,8,Rural,Manager,28,Female
+Master,25,Suburban,Director,24,Male
+Bachelor,6,Suburban,Manager,41,Female
+Bachelor,8,Urban,Manager,48,Female
+Master,19,Rural,Manager,42,Female
+PhD,8,Suburban,Engineer,34,Male
+Bachelor,29,Rural,Engineer,20,Female
+Master,25,Suburban,Engineer,57,Male
+Bachelor,1,Suburban,Manager,29,Male
+PhD,13,Urban,Engineer,53,Female
+Master,8,Rural,Manager,60,Female
+PhD,21,Suburban,Manager,60,Male
+High School,9,Rural,Engineer,27,Female
+Bachelor,16,Rural,Analyst,46,Male
+Bachelor,21,Rural,Manager,49,Male
+Master,5,Urban,Manager,37,Male
+Master,11,Suburban,Director,30,Female
+High School,17,Rural,Engineer,63,Female
+Master,21,Urban,Director,53,Female
+Bachelor,27,Rural,Manager,21,Female
+PhD,9,Urban,Director,58,Female
+Master,17,Rural,Manager,39,Male
+High School,15,Rural,Director,49,Male
+PhD,1,Rural,Manager,26,Female
+Bachelor,21,Urban,Engineer,25,Male
+Master,24,Urban,Director,24,Male
+High School,16,Suburban,Director,22,Male
+Master,13,Suburban,Analyst,60,Male
+Bachelor,20,Urban,Analyst,60,Female
+Master,24,Suburban,Engineer,36,Female
+Bachelor,24,Urban,Manager,27,Female
+High School,3,Urban,Analyst,60,Male
+High School,28,Urban,Engineer,44,Female
+Bachelor,14,Suburban,Engineer,43,Female
+High School,3,Rural,Manager,42,Male
+Master,18,Suburban,Manager,61,Male
+High School,24,Rural,Director,26,Male
+PhD,28,Suburban,Director,34,Female
+Bachelor,14,Rural,Engineer,59,Male
+Master,17,Rural,Engineer,44,Male
+High School,24,Urban,Engineer,51,Female
+Master,6,Suburban,Director,40,Male
+PhD,26,Rural,Analyst,38,Male
+High School,8,Suburban,Manager,55,Female
+High School,2,Urban,Engineer,52,Male
+Bachelor,18,Urban,Director,40,Male
+High School,3,Rural,Director,44,Female
+Bachelor,29,Urban,Manager,52,Male
+High School,21,Suburban,Analyst,47,Female
+Master,2,Urban,Engineer,64,Male
+PhD,5,Urban,Manager,56,Female
+PhD,22,Urban,Director,38,Male
+High School,9,Urban,Analyst,42,Male
+Master,29,Suburban,Engineer,54,Male
+Bachelor,19,Suburban,Director,51,Female
+PhD,2,Rural,Director,38,Male
+PhD,23,Urban,Manager,34,Male
+High School,4,Rural,Director,27,Female
+Master,17,Rural,Engineer,31,Female
+High School,4,Suburban,Director,30,Male
+Master,26,Urban,Manager,58,Male
+High School,6,Urban,Manager,61,Female
+PhD,2,Suburban,Analyst,42,Male
+Master,4,Suburban,Analyst,20,Female
+Master,8,Suburban,Director,54,Female
+High School,2,Urban,Director,37,Male
+High School,2,Rural,Director,62,Female
+Master,8,Rural,Analyst,26,Male
+Bachelor,26,Urban,Analyst,23,Male
+PhD,5,Rural,Director,60,Male
+Bachelor,14,Urban,Analyst,47,Male
+Bachelor,13,Urban,Manager,32,Male
+Bachelor,19,Suburban,Analyst,59,Male
+High School,28,Urban,Manager,41,Female
+Master,1,Suburban,Director,45,Female
+Bachelor,12,Suburban,Manager,20,Male
+Bachelor,20,Rural,Engineer,63,Female
+PhD,3,Suburban,Director,54,Male
+PhD,14,Rural,Manager,21,Male
+Bachelor,5,Urban,Manager,63,Female
+PhD,17,Rural,Analyst,57,Male
+Bachelor,17,Rural,Manager,63,Female
+PhD,11,Rural,Analyst,45,Male
+Master,26,Urban,Manager,43,Male
+High School,12,Urban,Manager,62,Female
+Master,4,Suburban,Analyst,24,Male
+Bachelor,9,Urban,Engineer,27,Male
+Bachelor,20,Suburban,Manager,49,Female
+Bachelor,15,Urban,Manager,21,Male
+Bachelor,1,Rural,Director,43,Female
+Master,21,Suburban,Analyst,43,Female
+High School,21,Urban,Analyst,44,Female
+Bachelor,1,Urban,Engineer,45,Male
+Master,3,Urban,Director,25,Female
+PhD,12,Rural,Engineer,42,Male
+Bachelor,6,Suburban,Engineer,36,Female
+PhD,22,Suburban,Manager,51,Male
+Bachelor,25,Suburban,Manager,20,Female
+Bachelor,3,Urban,Analyst,23,Male
+Master,8,Suburban,Director,53,Male
+High School,13,Suburban,Analyst,51,Female
+Master,12,Urban,Director,26,Male
+Master,20,Urban,Analyst,20,Male
+PhD,29,Urban,Engineer,28,Female
+Master,23,Urban,Engineer,44,Female
+Master,2,Rural,Engineer,26,Female
+Master,17,Rural,Manager,31,Male
+High School,19,Suburban,Director,24,Female
+PhD,19,Rural,Director,57,Male
+Bachelor,15,Urban,Manager,27,Female
+Bachelor,22,Rural,Director,45,Female
+PhD,16,Urban,Analyst,62,Female
+PhD,16,Rural,Engineer,25,Female
+Master,6,Urban,Manager,57,Male
+PhD,2,Suburban,Engineer,24,Female
+Master,11,Suburban,Director,62,Male
+Master,3,Rural,Manager,32,Female
+Bachelor,28,Urban,Director,36,Male
+PhD,9,Suburban,Engineer,25,Female
+Bachelor,24,Urban,Director,33,Male
+PhD,20,Rural,Manager,31,Female
+Bachelor,16,Urban,Director,42,Male
+Master,8,Urban,Manager,62,Male
+Master,13,Rural,Manager,59,Male
+Bachelor,4,Suburban,Manager,20,Male
+Master,2,Rural,Analyst,44,Male
+High School,17,Urban,Director,47,Male
+Bachelor,18,Rural,Director,50,Female
+Bachelor,17,Rural,Engineer,44,Female
+PhD,25,Urban,Manager,48,Male
+Master,25,Rural,Manager,44,Female
+High School,27,Suburban,Engineer,50,Female
+PhD,6,Suburban,Director,52,Female
+Bachelor,20,Rural,Director,55,Female
+High School,27,Urban,Director,42,Male
+High School,11,Rural,Manager,28,Female
+Master,20,Rural,Manager,23,Female
+Bachelor,18,Suburban,Engineer,56,Male
+PhD,14,Suburban,Analyst,34,Female
+High School,1,Urban,Analyst,56,Male
+Bachelor,23,Urban,Manager,37,Male
+Master,2,Urban,Director,39,Male
+Bachelor,7,Rural,Director,44,Male
+Master,10,Rural,Analyst,44,Female
+Bachelor,6,Rural,Director,55,Male
+PhD,13,Rural,Analyst,21,Female
+Bachelor,11,Urban,Manager,32,Female
+PhD,24,Urban,Manager,40,Female
+Master,17,Urban,Director,27,Male
+High School,28,Rural,Director,42,Female
+High School,18,Rural,Analyst,64,Male
+PhD,5,Urban,Director,35,Female
+Bachelor,29,Suburban,Manager,52,Male
+Bachelor,26,Urban,Director,53,Male
+Bachelor,15,Rural,Director,33,Male
+High School,14,Rural,Director,21,Male
+Master,22,Urban,Manager,23,Female
+Master,18,Suburban,Director,59,Female
+Master,7,Suburban,Analyst,56,Male
+High School,29,Rural,Engineer,58,Female
+Master,11,Rural,Analyst,47,Male
+PhD,6,Rural,Analyst,54,Female
+PhD,5,Urban,Analyst,58,Female
+High School,5,Rural,Manager,45,Male
+Bachelor,21,Rural,Analyst,36,Female
+Master,24,Rural,Director,29,Male
+Master,19,Suburban,Manager,45,Male
+PhD,19,Suburban,Engineer,20,Female
+High School,23,Rural,Analyst,35,Male
+Bachelor,22,Suburban,Engineer,36,Male
+Master,11,Suburban,Director,62,Male
+High School,12,Suburban,Director,56,Male
+High School,28,Suburban,Analyst,27,Female
+Master,28,Urban,Director,43,Female
+Bachelor,15,Suburban,Director,60,Female
+Master,20,Suburban,Director,58,Female
+High School,17,Suburban,Manager,57,Female
+PhD,25,Suburban,Engineer,57,Male
+PhD,25,Urban,Analyst,24,Female
+High School,2,Urban,Engineer,54,Female
+High School,9,Rural,Manager,42,Female
+Bachelor,8,Suburban,Director,50,Male
+High School,6,Suburban,Director,53,Male
+Bachelor,16,Rural,Manager,47,Female
+High School,24,Urban,Director,27,Female
+Bachelor,10,Rural,Analyst,33,Female
+Master,21,Urban,Analyst,45,Female
+PhD,1,Rural,Engineer,57,Male
+Bachelor,24,Rural,Manager,51,Male
+PhD,15,Suburban,Manager,56,Female
+Master,3,Rural,Analyst,59,Female
+Bachelor,20,Urban,Director,28,Female
+Master,26,Urban,Manager,38,Male
+Bachelor,22,Rural,Manager,40,Female
+PhD,5,Urban,Director,45,Female
+Master,1,Rural,Manager,59,Male
+High School,28,Suburban,Director,49,Male
+Master,27,Suburban,Engineer,22,Female
+Bachelor,21,Suburban,Engineer,60,Female
+PhD,6,Suburban,Director,37,Female
+High School,27,Rural,Engineer,60,Female
+High School,25,Urban,Director,59,Male
+Master,18,Rural,Director,53,Male
+Master,5,Urban,Manager,23,Female
+High School,25,Rural,Director,46,Male
+Master,1,Urban,Director,44,Female
+PhD,18,Urban,Director,50,Female
+High School,18,Rural,Director,21,Female
+High School,9,Suburban,Director,62,Male
+Master,10,Rural,Analyst,38,Male
+Master,5,Suburban,Analyst,27,Male
+Bachelor,10,Rural,Analyst,63,Male
+Master,13,Urban,Engineer,25,Male
+High School,17,Suburban,Manager,60,Female
+High School,4,Urban,Engineer,57,Male
+Bachelor,1,Urban,Engineer,39,Female
+Bachelor,15,Urban,Analyst,54,Female
+High School,24,Rural,Analyst,41,Male
+Bachelor,1,Urban,Manager,56,Male
+High School,25,Rural,Director,44,Female
+Master,29,Suburban,Engineer,50,Female
+High School,12,Urban,Manager,21,Female
+Bachelor,2,Suburban,Director,20,Female
+Master,19,Suburban,Engineer,44,Male
+High School,15,Rural,Manager,24,Male
+High School,13,Suburban,Engineer,20,Female
+Bachelor,9,Rural,Manager,56,Female
+Bachelor,6,Rural,Engineer,40,Female
+PhD,25,Suburban,Director,24,Female
+High School,3,Suburban,Engineer,25,Female
+Master,18,Suburban,Analyst,34,Female
+Bachelor,16,Rural,Engineer,42,Male
+Master,4,Rural,Director,35,Female
+PhD,22,Suburban,Analyst,39,Male
+Bachelor,17,Rural,Director,32,Male
+Master,19,Suburban,Director,59,Female
+High School,6,Rural,Manager,52,Male
+Master,25,Rural,Director,50,Female
+High School,23,Urban,Director,40,Male
+Master,19,Urban,Director,40,Female
+High School,8,Suburban,Analyst,25,Female
+High School,24,Urban,Engineer,30,Female
+Master,18,Rural,Analyst,44,Male
+Bachelor,27,Suburban,Director,31,Female
+High School,25,Urban,Director,41,Female
