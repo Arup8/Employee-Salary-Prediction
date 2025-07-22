@@ -3,7 +3,7 @@ pandas
 numpy
 joblib
 plotly
-scikit-learn
+scikit-learn==1.6.1
 fairlearn
 requests
 shap
