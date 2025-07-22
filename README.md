@@ -1,3 +1,14 @@
+# 💰 AI Salary Predictor Pro
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://employee-salary-prediction001.streamlit.app/)
+
+**Live Demo:**  
+🌐 [https://employee-salary-prediction001.streamlit.app/](https://employee-salary-prediction001.streamlit.app/)
+
+![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-orange?logo=streamlit)
+![XGBoost](https://img.shields.io/badge/ML-XGBoost-blue?logo=xgboost)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Production-brightgreen)
 
 ---
 
